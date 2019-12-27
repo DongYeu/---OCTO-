@@ -1,0 +1,34 @@
+[
+    {
+        "name":"火锅",
+        "img":"images/img2_03.jpg"
+    },
+    {
+        "name":"甜点饮品",
+        "img":"images/img2_05.jpg"
+    },
+    {
+        "name":"自助餐",
+        "img":"images/img2_07.jpg"
+    },
+    {
+        "name":"小吃快餐",
+        "img":"images/img2_09.jpg"
+    },
+    {
+        "name":"西餐",
+        "img":"images/img2_15.jpg"
+    },
+    {
+        "name":"烤肉烤鱼",
+        "img":"images/img2_16.jpg"
+    },
+    {
+        "name":"香锅烤鱼",
+        "img":"images/img2_17.jpg"
+    },
+    {
+        "name":"海鲜",
+        "img":"images/img2_18.jpg"
+    }
+]
